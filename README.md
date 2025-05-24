@@ -1,6 +1,13 @@
 # Betel Nut Predictor (No TensorFlow)
 
-A simple web app to classify betel nut images using Scikit-learn (RandomForestClassifier) and Gradio.
+A simple web app to predict the reason behind the betel nut fall using Scikit-learn (RandomForestClassifier) and Gradio.
+To this project use
+
+git clone "https://github.com/Lingaraj08/betel-nut-predictor.git"
+cd https://github.com/Lingaraj08/betel-nut-predictor.git
+
+To run 
+python app.py
 
 ## Features
 - Image classification (Healthy or Infected)
