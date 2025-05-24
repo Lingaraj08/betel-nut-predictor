@@ -1,0 +1,60 @@
+body {
+    background: linear-gradient(145deg, #e0ffe0, #ffffff);
+    font-family: 'Segoe UI', sans-serif;
+}
+
+#main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+.header {
+    background: linear-gradient(to right, #1e7f4f, #28a745);
+    padding: 24px;
+    border-radius: 16px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.header h1 {
+    margin-bottom: 0;
+}
+
+.header .logo {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 12px;
+}
+
+#left-panel, #right-panel {
+    background: white;
+    padding: 24px;
+    border-radius: 16px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    margin: 12px;
+}
+
+#analyze-btn {
+    background-color: #1e7f4f;
+    color: white;
+    font-size: 16px;
+    padding: 12px;
+    margin-top: 16px;
+    border-radius: 8px;
+}
+
+#analyze-btn:hover {
+    background-color: #16613c;
+}
+
+#history-box .history-placeholder {
+    color: #555;
+    background: #f8f8f8;
+    border: 2px dashed #ccc;
+    padding: 24px;
+    border-radius: 12px;
+    text-align: center;
+    margin-top: 12px;
+}
