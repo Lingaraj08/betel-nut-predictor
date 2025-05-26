@@ -1,7 +1,7 @@
 gradio==4.14.0
-opencv-python
-scikit-learn
-numpy
-joblib
-pillow
-pydub
+opencv-python==4.8.1.78
+scikit-learn==1.3.2
+numpy==1.24.3
+joblib==1.3.2
+pillow==10.1.0
+matplotlib==3.8.2
